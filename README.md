@@ -4,7 +4,7 @@ A modern and responsive law firm website template built using HTML, CSS, Bootstr
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Justice is a professional and fully responsive law firm website template designed for legal services, attorneys, advocates, consultants, and law agencies.  
 The project includes multiple pages such as Home, About, Services, Team, and Contact.
@@ -13,7 +13,7 @@ This template is built with clean UI components and modern frontend technologies
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fully Responsive Design
 - Modern UI/UX Layout
@@ -31,7 +31,7 @@ This template is built with clean UI components and modern frontend technologies
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -43,7 +43,7 @@ This template is built with clean UI components and modern frontend technologies
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Justice-Law-Firm-Website/
@@ -67,7 +67,7 @@ Justice-Law-Firm-Website/
 
 ---
 
-## 📄 Pages Included
+## Pages Included
 
 - Home Page
 - About Page
@@ -77,51 +77,7 @@ Justice-Law-Firm-Website/
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/ankursingh-1/Justice-Law-Firm-Website.git
-```
-
----
-
-### 2. Open Project Folder
-
-```bash
-cd Justice-Law-Firm-Website
-```
-
----
-
-### 3. Run Project
-
-Open `index.html` in your browser.
-
----
-
-## 🌐 Live Demo
-
-```txt
-https://ankursingh-1.github.io/Justice-Law-Firm-Website/
-```
-
----
-
-## 📸 Screenshots
-
-Add project screenshots here.
-
-Example:
-
-```txt
-screenshots/homepage.png
-```
-
----
-
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and works properly on:
 
@@ -132,7 +88,7 @@ The website is fully responsive and works properly on:
 
 ---
 
-## 🔧 Future Improvements
+## Future Improvements (Pending)
 
 - Backend Integration
 - Database Connectivity
@@ -144,7 +100,7 @@ The website is fully responsive and works properly on:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Ankur Singh
 
@@ -154,12 +110,12 @@ ASP.NET Core | React | SQL Server
 
 ---
 
-## 📃 License
+## License
 
 This project is open source and free to use.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project, give it a ⭐ on GitHub.
